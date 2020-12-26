@@ -1,7 +1,7 @@
 {
     "lang_title": "日本語パック",
     "lang_name": "日本語",
-    "lang_var": "1.0.0",
+    "lang_var": "1.0.1",
     "title": "レッツ タイピング！",
     "info_var": "バージョン: ",
     "pack_var": "言語パックバージョン: ",
@@ -19,6 +19,7 @@
     "game_score_truetype": "正しく打てた数: ",
     "game_score_falsetype": "間違い数: ",
     "game_score_percent": "正しく打てた割合: ",
+    "back_to_title": "タイトルに戻る",
     "words": {
         "ああ言えばこう言う": "aaiebakouiu",
         "急がば回れ": "isogabamaware",

@@ -1,5 +1,7 @@
-const appvar = "1.0.0";
+const appvar = "1.0.1";
 document.getElementById("var").innerHTML = appvar;
+
+const $ = require(`${__dirname}/script/jquery-3.5.1.min.js`);
 
 window.onload = function () {
     document.getElementsByClassName("loading")[0].classList.add("load-succ-a");
@@ -12,6 +14,19 @@ window.onload = function () {
         set_lang(JSON.parse(fs.readFileSync(`${__dirname}/../config.json`)).lang_code);
     }
 };
+
+$(function () {
+    // #で始まるリンクをクリックしたら実行されます
+    $('a[href^="#"]').click(function () {
+        // スクロールの速度
+        var speed = 400; // ミリ秒で記述
+        var href = $(this).attr("href");
+        var target = $(href == "#" || href == "" ? 'html' : href);
+        var position = target.offset().top;
+        $('body,html').animate({ scrollTop: position }, speed, 'swing');
+        return false;
+    });
+});
 
 document.addEventListener('DOMContentLoaded', function () {
     var elems = document.querySelectorAll('.modal');
