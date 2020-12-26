@@ -1,4 +1,4 @@
 @echo off
-git fetch orgin main
-git reset --hard orgin/main
+git fetch origin main
+git reset --hard origin/main
 @echo on
