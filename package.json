@@ -1,0 +1,14 @@
+{
+  "name": "lets_type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "MonHu",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  }
+}

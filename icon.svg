@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64mm"
+   height="64mm"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\gakut\Desktop\MonHu's Workspace\open type\app\icon.png"
+   inkscape:export-xdpi="406.39999"
+   inkscape:export-ydpi="406.39999">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="66.872043"
+     inkscape:cy="152.06157"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffdd55;stroke-width:0.262355"
+       id="rect53"
+       width="64"
+       height="64"
+       x="0"
+       y="0"
+       ry="15.73445" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.55045"
+       id="rect10-1"
+       width="36"
+       height="32.000004"
+       x="24.400904"
+       y="26"
+       ry="4" />
+    <text
+       xml:space="preserve"
+       style="font-size:30.7883px;line-height:1.25;font-family:'Bowlby One SC';-inkscape-font-specification:'Bowlby One SC';letter-spacing:0px;word-spacing:0px;fill:#d7eef4;stroke-width:0.577279"
+       x="20.432354"
+       y="59.471878"
+       id="text51"
+       transform="scale(1.152555,0.86763756)"><tspan
+         sodipodi:role="line"
+         id="tspan49"
+         x="20.432354"
+         y="59.471878"
+         style="fill:#d7eef4;stroke-width:0.577279">あ</tspan></text>
+    <rect
+       style="fill:#333333;stroke-width:0.550449"
+       id="rect10"
+       width="36"
+       height="32"
+       x="4.4009042"
+       y="6"
+       ry="4" />
+    <text
+       xml:space="preserve"
+       style="font-size:32.4512px;line-height:1.25;font-family:'Bowlby One SC';-inkscape-font-specification:'Bowlby One SC';letter-spacing:0px;word-spacing:0px;fill:#d5f6ff;stroke-width:0.608461"
+       x="8.9804535"
+       y="34.178436"
+       id="text29"
+       transform="scale(1.0220233,0.97845127)"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         x="8.9804535"
+         y="34.178436"
+         style="fill:#d5f6ff;stroke-width:0.608461">A</tspan></text>
+  </g>
+</svg>
