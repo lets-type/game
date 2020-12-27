@@ -67,7 +67,7 @@ function charInsort() {
 }
 function finish() {
     score = Math.floor(Math.pow(correct, 2) * Math.pow((correct / (correct + mistake)), 5));
-    scoredis.innerHTML = `<h2>${lang.game_score_point1}${(score == NaN) ? 0 : score}${lang.game_score_point2}</h2><hr>${lang.game_score_truetype}${correct}<br>${lang.game_score_falsetype}${mistake}<br>${lang.game_score_percent}${((correct / (correct + mistake) * 100).toFixed(1) == NaN) ? 0 : (correct / (correct + mistake) * 100).toFixed(1)}%<br><br><a href="#title" class="col s12 btn">${lang.back_to_title}</a>`;
+    scoredis.innerHTML = `<h2>${lang.game_score_point1}${(score == NaN) ? 0 : score}${lang.game_score_point2}</h2><hr>${lang.game_score_truetype}${correct}<br>${lang.game_score_falsetype}${mistake}<br>${lang.game_score_percent}${((correct / (correct + mistake) * 100).toFixed(1) == NaN) ? 0 : (correct / (correct + mistake) * 100).toFixed(1)}%<br><br><a href="#title" class="col s12 btn blue">${lang.back_to_title}</a>`;
     count.innerHTML = "";
     word.innerHTML = "";
     orig.innerHTML = "";
