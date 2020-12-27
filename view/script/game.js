@@ -78,6 +78,7 @@ function finish() {
     document.getElementById('endaudio').pause();
     document.getElementById('endaudio').currentTime = 0;
     document.getElementById('endaudio').play();
+    now_game = false;
 }
 document.onkeydown = function (e) {
     if (now_game) {

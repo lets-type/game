@@ -1,4 +1,4 @@
-const appvar = "1.0.2";
+const appvar = "1.0.3";
 document.getElementById("var").innerHTML = appvar;
 
 window.onload = function () {
